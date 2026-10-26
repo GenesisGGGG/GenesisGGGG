@@ -4,8 +4,8 @@ Physics + Computer Science minor @ **UIUC** (Class of 2028) — I build quant-fl
 
 ### Featured projects
 
-- **[stock-decision-engine](https://github.com/GenesisGGGG/stock-decision-engine)** — full-stack equity valuation: 7-model fair-value blender written in Python, wrapped in a decision-first Next.js dashboard
-- **[crypto-trading-system](https://github.com/GenesisGGGG/crypto-trading-system)** — automated crypto trading system: 22 Pine Script strategies firing webhooks into a Google Cloud Function that executes on Coinbase Advanced Trade via ccxt
+- **[crypto-trading-system](https://github.com/GenesisGGGG/crypto-trading-system)** — automated crypto trading system, built and ran live (completed): Pine Script strategies fire webhooks into a Google Cloud Function that executes on Coinbase Advanced Trade via ccxt
+- **[stock-decision-engine](https://github.com/GenesisGGGG/stock-decision-engine)** — full-stack equity valuation (**in progress**): 7-model fair-value blender written in Python, wrapped in a decision-first Next.js dashboard
 
 ### Currently
 
