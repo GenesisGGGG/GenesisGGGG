@@ -1,6 +1,6 @@
 # Nathan Yue
 
-Physics + Computer Science minor @ **UIUC** (Class of 2028) — I build quant-flavored tools end to end, from signal to execution.
+Physics + Computer Science minor @ **UIUC** (Class of 2028) — I build quant-flavored tools end to end, from valuation to execution.
 
 ### Featured projects
 
@@ -13,4 +13,4 @@ Seeking **Summer 2027 internships** in prop trading, asset management, quant res
 
 `Python` · `TypeScript / Next.js` · `Pine Script` · `ccxt` · `Google Cloud`
 
-📫 nyue2@illinois.edu
+📫 nathanyue1234@gmail.com
